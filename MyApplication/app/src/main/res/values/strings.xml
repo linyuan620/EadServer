@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">扬尘与噪声监测平台</string>
+    <string name="about_msg"></string>
+    <string name="error_configuration">Please configure your serial
+        port first.</string>
+    <string name="error_security">You do not have read/write permission
+        to the serialport.</string>
+    <string name="error_unknown">The serial port can not be opened for
+        an unknown reason.</string>
+    <string name="open_wifi_hot">打开WIFI热点</string>
+    <string name="opening_wifi_hot">正在打开热点...</string>
+    <string name="close_wifi_hot">关闭WIFI热点</string>
+    <string name="closeing_wifi_hot">正在关闭热点...</string>
+</resources>
